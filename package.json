@@ -1,8 +1,8 @@
 {
-	"name": "@<user_or_org>/<repo_name>",
+	"name": "nigaba.github.io",
 	"version": "1.0.0",
-	"author": "<user_or_org>",
-	"repository": "https://github.com/<user_or_org>/<repo_name>",
+	"author": "nigaba",
+	"repository": "https://github.com/nigaba/nigaba.github.io.git",
 	"license": "MIT",
 	"type": "module",
 	"private": true,
